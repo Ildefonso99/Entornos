@@ -9,6 +9,5 @@
  * @author alfonso
  */
 public class PruebaEntornos {
-    
-    System.out.println(holamundo);
+    System.out.println("holamundo");
 }
